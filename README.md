@@ -8,3 +8,7 @@ Super basic [11ty](https://www.11ty.dev) starter to get you moving in the right 
 2. Open the new repository in Codespaces or your own development environment.
 3. Make sure you have Node.js installed (this will be automatic if using Codespaces).
 4. In your terminal type `npx @11ty/eleventy --serve` to build and view the template.
+
+## Resorces used
+used chat GPT to help write the blog post
+used Bing Copilot the write the about page

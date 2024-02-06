@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #EAE8FF;
-    background: #2D3142;
+    color: #CEE5F2;
+    background: #637081;
     padding: 0 40px;
     text-align: center;
 }
@@ -10,7 +10,7 @@ nav {
     margin: 40px auto 0 auto;
     width: 250px;
     border-radius: 50px;
-    background: #212431;
+    background: #7C98B3;
 }
 
 nav ul {
@@ -34,17 +34,23 @@ nav ul li a {
 }
 
 h1 {
-    font-size: 8em;
+    font-size: 5em;
     letter-spacing: -2px;
 }
 
 h1 strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: #7C98B3;
+    background: linear-gradient(45deg, #7C98B3 0%, #CEE5F2 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 img.about {
     opacity: 0.5;
+}
+
+p {
+    text-align: left;
+    padding: auto;
+    font-size: 18px;
 }
